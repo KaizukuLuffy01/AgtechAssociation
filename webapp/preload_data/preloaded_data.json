@@ -1,0 +1,2257 @@
+[
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "users",
+        "model": "profile"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "webapp",
+        "model": "aboutus"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "webapp",
+        "model": "agtechcategory"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "users",
+        "model": "usertype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "webapp",
+        "model": "testimonials"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "users",
+        "model": "extendedprofile"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "users",
+        "model": "states"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "webapp",
+        "model": "latestnews"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "webapp",
+        "model": "whychooseus"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "aypsstkt21k1y67cc0d74qq1xkoyn4at",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAGmAou3fcMZKaAVA0kpV0Z765NutDtf-_9lwi0rSVsPS1hjuIiQJx-N6bpkeoO4p3qrcmp1XWZWe6KPGiXY4vpeT3cv4NCvXxrzpgGrRxoZwAJLHGMmFMGa9k4HLRDjnAmDwAGskqsMpM3RIjOefH-ANgMN5A:1oeEEn:15VbWGtKpPt6-Shb76D3rs2GoaVIAixbxEEwrWdEYpw",
+        "expire_date": "2022-10-14T11:31:25.565Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "cfcnwv1fuf3sip7b7nmx9ojg8u1cdl8z",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAGmAou3fcMZKaAVA0kpV0Z765NutDtf-_9lwi0rSVsPS1hjuIiQJx-N6bpkeoO4p3qrcmp1XWZWe6KPGiXY4vpeT3cv4NCvXxrzpgGrRxoZwAJLHGMmFMGa9k4HLRDjnAmDwAGskqsMpM3RIjOefH-ANgMN5A:1oduBC:5-wdc5x6DJVB3fLW9FAx1N_yp94x7Qd2DQJhYYMGEtU",
+        "expire_date": "2022-10-13T14:06:22.160Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "mfx5qbm7sjihc437yvu9xvv5i0n9gvrg",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAGmAou3fcMZKaAVA0kpV0Z765NutDtf-_9lwi0rSVsPS1hjuIiQJx-N6bpkeoO4p3qrcmp1XWZWe6KPGiXY4vpeT3cv4NCvXxrzpgGrRxoZwAJLHGMmFMGa9k4HLRDjnAmDwAGskqsMpM3RIjOefH-ANgMN5A:1odn88:giRP9_nniA68-YsC1594H99jrKJqUiwL3aHevjjYs9w",
+        "expire_date": "2022-10-13T06:34:44.194Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "vgxada67lmukffpz3zdhydg5uvlekatg",
+    "fields": {
+        "session_data": "e30:1ockGf:eTXmNdKC4w50_iXyd6ruDZhpuTQtsAIQkP6dLB0K_4A",
+        "expire_date": "2022-10-10T09:19:13.161Z"
+    }
+},
+{
+    "model": "webapp.aboutus",
+    "pk": 1,
+    "fields": {
+        "image1": "",
+        "image2": "",
+        "title": "Big data powered Agtech intelligence system",
+        "text": "Association of new age agtech startups across all segments working relentlessly for reforming Agriculture landscape of India and betterment of farmers.\r\n\r\nVision - Integrated and intelligence platform powered by Agtech DB on wide variety of tech. advancements.  Highly interactive and agile DB to serve the stakeholders needs per their requirements and National planning and policy making for resource mobilisation",
+        "created_at": "2022-09-26T08:43:57.797Z",
+        "updated_at": "2022-09-26T09:01:20.229Z"
+    }
+},
+{
+    "model": "webapp.agtechcategory",
+    "pk": 9,
+    "fields": {
+        "category_image": "AgtechCat/satellite_imagery_-precision_farming.webp",
+        "title": "Precision Agriculture -AI/ML/IOT",
+        "text": "Cutting edge AI powered satellite and UAV imagery led analytics for crop monitoring and managing."
+    }
+},
+{
+    "model": "webapp.agtechcategory",
+    "pk": 10,
+    "fields": {
+        "category_image": "AgtechCat/supplychain_and_logistics.webp",
+        "title": "Supply Chain and Logistics",
+        "text": "Tech integration across supply chains ensuring robust and resilient supply chains to address food security and safety challenges"
+    }
+},
+{
+    "model": "webapp.agtechcategory",
+    "pk": 11,
+    "fields": {
+        "category_image": "AgtechCat/foodprocessing.webp",
+        "title": "Post-Harvest, Food Tech and Value Addition",
+        "text": "Smart manufacturing powered food tech and value addition"
+    }
+},
+{
+    "model": "webapp.agtechcategory",
+    "pk": 12,
+    "fields": {
+        "category_image": "AgtechCat/green_energy.webp",
+        "title": "Waste to Wealth and Green Energy",
+        "text": "Save planet, recycle and create wealth from waste"
+    }
+},
+{
+    "model": "webapp.agtechcategory",
+    "pk": 13,
+    "fields": {
+        "category_image": "AgtechCat/foodprocessing_hVR7qjy.webp",
+        "title": "Agri-inputs and Biotechnology",
+        "text": "Improve productivity and farmer income by providing resilient and bio inputs"
+    }
+},
+{
+    "model": "webapp.agtechcategory",
+    "pk": 14,
+    "fields": {
+        "category_image": "AgtechCat/beef-cattle-ranching-farming.webp",
+        "title": "Agriculture and Allied",
+        "text": "Agriculture Allied Sectors (Animal Husbandry & Dairying / Fisheries / Sericulture / Forestry / Environment, etc.)"
+    }
+},
+{
+    "model": "webapp.agtechcategory",
+    "pk": 15,
+    "fields": {
+        "category_image": "AgtechCat/R.jpg",
+        "title": "Natural Resources",
+        "text": "NAtural Resources"
+    }
+},
+{
+    "model": "webapp.agtechcategory",
+    "pk": 16,
+    "fields": {
+        "category_image": "AgtechCat/farm_mechanization_uh6t9R0.webp",
+        "title": "New age farm mechanization solution for increased efficiency and production",
+        "text": "Farm Mechanization"
+    }
+},
+{
+    "model": "webapp.testimonials",
+    "pk": 1,
+    "fields": {
+        "image": "Testimonial/Screenshot_from_2022-01-01_21-17-32.png",
+        "title": "Good for u",
+        "test_type": "Client",
+        "text": "This is some gibberish text. Loren ipsum. This is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nv\r\nThis is some gibberish text. Loren ipsum.vThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum."
+    }
+},
+{
+    "model": "webapp.testimonials",
+    "pk": 2,
+    "fields": {
+        "image": "Testimonial/Screenshot_from_2021-12-26_21-34-22.png",
+        "title": "Great title",
+        "test_type": "User",
+        "text": "This is some gibberish text. Loren ipsum. This is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nv\r\nThis is some gibberish text. Loren ipsum.vThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum."
+    }
+},
+{
+    "model": "webapp.testimonials",
+    "pk": 3,
+    "fields": {
+        "image": "Testimonial/Screenshot_from_2021-12-26_21-34-22_gYKRMr5.png",
+        "title": "jkhsdkj dsoiyf",
+        "test_type": "dsajk",
+        "text": "This is some gibberish text. Loren ipsum. This is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nv\r\nThis is some gibberish text. Loren ipsum.vThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum."
+    }
+},
+{
+    "model": "webapp.testimonials",
+    "pk": 4,
+    "fields": {
+        "image": "Testimonial/Screenshot_from_2022-02-13_21-17-29.png",
+        "title": "kjgfss  liuiuywqtbvx",
+        "test_type": "qwiywqbx",
+        "text": "This is some gibberish text. Loren ipsum. This is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nv\r\nThis is some gibberish text. Loren ipsum.vThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum."
+    }
+},
+{
+    "model": "webapp.whychooseus",
+    "pk": 1,
+    "fields": {
+        "text": "Proved Accuracy",
+        "number": 50000
+    }
+},
+{
+    "model": "webapp.whychooseus",
+    "pk": 2,
+    "fields": {
+        "text": "Data Consistency",
+        "number": 20000
+    }
+},
+{
+    "model": "webapp.whychooseus",
+    "pk": 3,
+    "fields": {
+        "text": "Result Specific",
+        "number": 300
+    }
+},
+{
+    "model": "webapp.whychooseus",
+    "pk": 4,
+    "fields": {
+        "text": "Straight Forward",
+        "number": 50
+    }
+},
+{
+    "model": "webapp.latestnews",
+    "pk": 1,
+    "fields": {
+        "image": "LatestNews/Screenshot_from_2021-12-26_21-34-22.png",
+        "title": "Hola",
+        "text": "This is some gibberish text. Loren ipsum. This is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nv\r\nThis is some gibberish text. Loren ipsum.vThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.",
+        "timestamp": "2022-10-01"
+    }
+},
+{
+    "model": "webapp.latestnews",
+    "pk": 2,
+    "fields": {
+        "image": "LatestNews/Screenshot_from_2022-01-01_21-17-32.png",
+        "title": "Hola 2",
+        "text": "This is some gibberish text. Loren ipsum. This is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nv\r\nThis is some gibberish text. Loren ipsum.vThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.",
+        "timestamp": "2022-10-01"
+    }
+},
+{
+    "model": "webapp.latestnews",
+    "pk": 3,
+    "fields": {
+        "image": "LatestNews/Screenshot_from_2022-01-01_21-17-32_0eHasdm.png",
+        "title": "Hola 3",
+        "text": "This is some gibberish text. Loren ipsum. This is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.\r\nv\r\nThis is some gibberish text. Loren ipsum.vThis is some gibberish text. Loren ipsum.\r\nThis is some gibberish text. Loren ipsum.",
+        "timestamp": "2022-10-01"
+    }
+},
+{
+    "model": "users.states",
+    "pk": 1,
+    "fields": {
+        "name": "Uttar Pradesh",
+        "created_at": "2022-09-28T23:00:08.415Z",
+        "updated_at": "2022-09-28T23:00:08.415Z"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add user",
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change user",
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete user",
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view user",
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add profile",
+        "content_type": [
+            "users",
+            "profile"
+        ],
+        "codename": "add_profile"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change profile",
+        "content_type": [
+            "users",
+            "profile"
+        ],
+        "codename": "change_profile"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete profile",
+        "content_type": [
+            "users",
+            "profile"
+        ],
+        "codename": "delete_profile"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view profile",
+        "content_type": [
+            "users",
+            "profile"
+        ],
+        "codename": "view_profile"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add about us",
+        "content_type": [
+            "webapp",
+            "aboutus"
+        ],
+        "codename": "add_aboutus"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change about us",
+        "content_type": [
+            "webapp",
+            "aboutus"
+        ],
+        "codename": "change_aboutus"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete about us",
+        "content_type": [
+            "webapp",
+            "aboutus"
+        ],
+        "codename": "delete_aboutus"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view about us",
+        "content_type": [
+            "webapp",
+            "aboutus"
+        ],
+        "codename": "view_aboutus"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add agtech category",
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "codename": "add_agtechcategory"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change agtech category",
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "codename": "change_agtechcategory"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete agtech category",
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "codename": "delete_agtechcategory"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view agtech category",
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "codename": "view_agtechcategory"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add user type",
+        "content_type": [
+            "users",
+            "usertype"
+        ],
+        "codename": "add_usertype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change user type",
+        "content_type": [
+            "users",
+            "usertype"
+        ],
+        "codename": "change_usertype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete user type",
+        "content_type": [
+            "users",
+            "usertype"
+        ],
+        "codename": "delete_usertype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view user type",
+        "content_type": [
+            "users",
+            "usertype"
+        ],
+        "codename": "view_usertype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add testimonials",
+        "content_type": [
+            "webapp",
+            "testimonials"
+        ],
+        "codename": "add_testimonials"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change testimonials",
+        "content_type": [
+            "webapp",
+            "testimonials"
+        ],
+        "codename": "change_testimonials"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete testimonials",
+        "content_type": [
+            "webapp",
+            "testimonials"
+        ],
+        "codename": "delete_testimonials"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view testimonials",
+        "content_type": [
+            "webapp",
+            "testimonials"
+        ],
+        "codename": "view_testimonials"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add extended profile",
+        "content_type": [
+            "users",
+            "extendedprofile"
+        ],
+        "codename": "add_extendedprofile"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change extended profile",
+        "content_type": [
+            "users",
+            "extendedprofile"
+        ],
+        "codename": "change_extendedprofile"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete extended profile",
+        "content_type": [
+            "users",
+            "extendedprofile"
+        ],
+        "codename": "delete_extendedprofile"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view extended profile",
+        "content_type": [
+            "users",
+            "extendedprofile"
+        ],
+        "codename": "view_extendedprofile"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add states",
+        "content_type": [
+            "users",
+            "states"
+        ],
+        "codename": "add_states"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change states",
+        "content_type": [
+            "users",
+            "states"
+        ],
+        "codename": "change_states"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete states",
+        "content_type": [
+            "users",
+            "states"
+        ],
+        "codename": "delete_states"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view states",
+        "content_type": [
+            "users",
+            "states"
+        ],
+        "codename": "view_states"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add latest news",
+        "content_type": [
+            "webapp",
+            "latestnews"
+        ],
+        "codename": "add_latestnews"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change latest news",
+        "content_type": [
+            "webapp",
+            "latestnews"
+        ],
+        "codename": "change_latestnews"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete latest news",
+        "content_type": [
+            "webapp",
+            "latestnews"
+        ],
+        "codename": "delete_latestnews"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view latest news",
+        "content_type": [
+            "webapp",
+            "latestnews"
+        ],
+        "codename": "view_latestnews"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add why choose us",
+        "content_type": [
+            "webapp",
+            "whychooseus"
+        ],
+        "codename": "add_whychooseus"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change why choose us",
+        "content_type": [
+            "webapp",
+            "whychooseus"
+        ],
+        "codename": "change_whychooseus"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete why choose us",
+        "content_type": [
+            "webapp",
+            "whychooseus"
+        ],
+        "codename": "delete_whychooseus"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view why choose us",
+        "content_type": [
+            "webapp",
+            "whychooseus"
+        ],
+        "codename": "view_whychooseus"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$ha0BRXZzfilk81l7a8L5gB$A7VLcTYBtMkzXqT8YKcHTtynQkmgbKgj4GjekavOWuM=",
+        "last_login": "2022-09-30T11:31:25.557Z",
+        "is_superuser": true,
+        "username": "umair-ansari",
+        "first_name": "",
+        "last_name": "",
+        "email": "umairnsr87@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-09-25T21:49:01.818Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "umair-ansari1",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-09-25T22:19:49.302Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "abc",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "umair-ansari11",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-09-25T22:20:15.333Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$BEwsNelOWtyKCKXo0Ve5sP$pyozsjlvNftH+e2khZ5fH5b+fobMjf9+VTnO98AjzO8=",
+        "last_login": "2022-09-25T22:27:25.996Z",
+        "is_superuser": false,
+        "username": "umair-ansari1010@gmail.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-09-25T22:25:07.359Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$FtKj0GZ8XKgGmhfT4AqfOw$QYDQyWN25PTK590toHCMgPYKpq3jIJjxQew9AapWXV0=",
+        "last_login": "2022-09-26T09:19:13.166Z",
+        "is_superuser": false,
+        "username": "",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-09-26T09:19:13.137Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$UFRlLQSgRl3bvFB91zGUL0$0vLEInMRyT49mVpPpmUz0uLO3POse4UE+laLrHnoOec=",
+        "last_login": "2022-09-28T23:20:10.471Z",
+        "is_superuser": false,
+        "username": "admin@admin.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-09-28T23:20:10.442Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$MuxH2mnwpUAEF7ucgOsQGC$RqM/7ObrIqKtASKVK2DaSfUAfRpH39+ux2hXS/fK1z8=",
+        "last_login": "2022-09-30T11:12:59.814Z",
+        "is_superuser": false,
+        "username": "preeti@hgsystems.in",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-09-30T10:57:14.720Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.extendedprofile",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "umair-ansari"
+        ],
+        "startup_name": "abc",
+        "tagline": "jdsjhds",
+        "mobile": "8791",
+        "category": "sjjjdsa",
+        "segment": "lksdkjds",
+        "business_model": "dmbdb",
+        "cin_number": "dskhshj",
+        "registration_state": 1,
+        "founder_name": "dskjlksd",
+        "founder_email": "umair@gmail.com",
+        "lastyear_revenue": "6552",
+        "funded_bootstrapped": true,
+        "tech_brief": "dsjgjds",
+        "rewards_recognition": "dsksdjlj",
+        "company_website": "https://hgsystems.in",
+        "created_at": "2022-09-28T23:03:34.734Z",
+        "updated_at": "2022-09-28T23:03:34.734Z"
+    }
+},
+{
+    "model": "users.extendedprofile",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "admin@admin.com"
+        ],
+        "startup_name": "abc",
+        "tagline": "sajgjgdsa",
+        "mobile": "dsgfjdgs",
+        "category": "dgsjgds",
+        "segment": "sdjfds",
+        "business_model": "ugdsyufs",
+        "cin_number": "igdsuffs",
+        "registration_state": 1,
+        "founder_name": "dfsf",
+        "founder_email": "iugdsyuf",
+        "lastyear_revenue": "iugdsyug",
+        "funded_bootstrapped": true,
+        "tech_brief": "gdshf",
+        "rewards_recognition": "gdsg",
+        "company_website": "https://hgsystems.in",
+        "created_at": "2022-09-28T23:20:36.080Z",
+        "updated_at": "2022-09-28T23:20:36.080Z"
+    }
+},
+{
+    "model": "users.extendedprofile",
+    "pk": 4,
+    "fields": {
+        "user": null,
+        "startup_name": "Harvest Global",
+        "tagline": "Value Chain AI",
+        "mobile": "9821206807",
+        "category": "Precision",
+        "segment": "Fullstack",
+        "business_model": "B2B, B2G",
+        "cin_number": "xyz",
+        "registration_state": null,
+        "founder_name": "Preeti",
+        "founder_email": "Preeti@hgsystems.in",
+        "lastyear_revenue": "1.5",
+        "funded_bootstrapped": true,
+        "tech_brief": "AI Platform",
+        "rewards_recognition": "",
+        "company_website": "https://hgsystems.in",
+        "created_at": "2022-09-30T10:49:31.299Z",
+        "updated_at": "2022-09-30T10:49:31.299Z"
+    }
+},
+{
+    "model": "users.profile",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "umair-ansari"
+        ],
+        "uuid": "21cb084a-3d1c-11ed-bf56-0df6b4d9de56",
+        "user_type": 1,
+        "extended_profile": 2
+    }
+},
+{
+    "model": "users.profile",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "umair-ansari1010@gmail.com"
+        ],
+        "uuid": "c62af432-3d20-11ed-bf56-0df6b4d9de56",
+        "user_type": 1,
+        "extended_profile": null
+    }
+},
+{
+    "model": "users.profile",
+    "pk": 3,
+    "fields": {
+        "user": [
+            ""
+        ],
+        "uuid": "49311cac-3d7c-11ed-b495-f3a7b571328b",
+        "user_type": 1,
+        "extended_profile": null
+    }
+},
+{
+    "model": "users.profile",
+    "pk": 4,
+    "fields": {
+        "user": [
+            "admin@admin.com"
+        ],
+        "uuid": "18ea6634-3f84-11ed-a9ea-030dcbae6b26",
+        "user_type": 2,
+        "extended_profile": 3
+    }
+},
+{
+    "model": "users.profile",
+    "pk": 5,
+    "fields": {
+        "user": [
+            "preeti@hgsystems.in"
+        ],
+        "uuid": "a48a606a-40ae-11ed-b6c1-677a920a45e3",
+        "user_type": 2,
+        "extended_profile": null
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2022-09-25T21:51:09.760Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "users",
+            "profile"
+        ],
+        "object_id": "1",
+        "object_repr": "Profile object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2022-09-26T06:47:43.965Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "aboutus"
+        ],
+        "object_id": "1",
+        "object_repr": "AboutUs object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2022-09-26T08:43:57.798Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "aboutus"
+        ],
+        "object_id": "1",
+        "object_repr": "AboutUs object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2022-09-26T08:44:15.878Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "aboutus"
+        ],
+        "object_id": "1",
+        "object_repr": "AboutUs object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2022-09-26T09:01:20.229Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "aboutus"
+        ],
+        "object_id": "1",
+        "object_repr": "AboutUs object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2022-09-28T14:36:17.971Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "1",
+        "object_repr": "AgtechCategory object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2022-09-28T14:45:47.117Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "1",
+        "object_repr": "AgtechCategory object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2022-09-28T15:55:16.933Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "1",
+        "object_repr": "AgtechCategory object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2022-09-28T15:55:22.519Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "1",
+        "object_repr": "AgtechCategory object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2022-09-28T15:59:33.663Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "1",
+        "object_repr": "AgtechCategory object (1)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2022-09-28T15:59:45.234Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "2",
+        "object_repr": "AgtechCategory object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2022-09-28T16:01:25.249Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "2",
+        "object_repr": "AgtechCategory object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2022-09-28T16:01:32.713Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "2",
+        "object_repr": "AgtechCategory object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-09-28T16:01:47.814Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "2",
+        "object_repr": "AgtechCategory object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-09-28T16:01:55.108Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "2",
+        "object_repr": "AgtechCategory object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-09-28T16:03:49.701Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "2",
+        "object_repr": "AgtechCategory object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-09-28T16:13:48.418Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "2",
+        "object_repr": "AgtechCategory object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-09-28T16:18:30.154Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "2",
+        "object_repr": "AgtechCategory object (2)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2022-09-28T16:18:41.155Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "3",
+        "object_repr": "AgtechCategory object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2022-09-28T16:30:17.872Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "3",
+        "object_repr": "AgtechCategory object (3)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2022-09-28T16:30:30.213Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "4",
+        "object_repr": "AgtechCategory object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2022-09-28T16:37:40.352Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "5",
+        "object_repr": "AgtechCategory object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2022-09-28T18:15:23.796Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "6",
+        "object_repr": "AgtechCategory object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2022-09-28T18:15:34.375Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "7",
+        "object_repr": "AgtechCategory object (7)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2022-09-28T23:00:08.416Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "users",
+            "states"
+        ],
+        "object_id": "1",
+        "object_repr": "States object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2022-09-28T23:13:02.711Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "7",
+        "object_repr": "AgtechCategory object (7)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2022-09-28T23:14:13.328Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "7",
+        "object_repr": "AgtechCategory object (7)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\", \"Title\", \"Text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2022-09-28T23:15:00.362Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "6",
+        "object_repr": "AgtechCategory object (6)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\", \"Title\", \"Text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2022-09-28T23:15:27.359Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "5",
+        "object_repr": "AgtechCategory object (5)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category image\", \"Title\", \"Text\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2022-09-28T23:15:39.707Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "4",
+        "object_repr": "AgtechCategory object (4)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2022-09-29T14:11:18.734Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "8",
+        "object_repr": "AgtechCategory object (8)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2022-09-29T14:11:51.643Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "5",
+        "object_repr": "AgtechCategory object (5)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2022-09-29T14:12:09.336Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "7",
+        "object_repr": "AgtechCategory object (7)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2022-09-29T14:12:19.347Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "6",
+        "object_repr": "AgtechCategory object (6)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2022-09-29T14:13:58.218Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "9",
+        "object_repr": "AgtechCategory object (9)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2022-09-29T14:17:19.294Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "10",
+        "object_repr": "AgtechCategory object (10)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2022-09-29T14:19:16.211Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "11",
+        "object_repr": "AgtechCategory object (11)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2022-09-29T14:20:13.291Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "12",
+        "object_repr": "AgtechCategory object (12)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2022-09-29T14:21:44.999Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "13",
+        "object_repr": "AgtechCategory object (13)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2022-09-29T14:24:20.268Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "14",
+        "object_repr": "AgtechCategory object (14)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2022-09-29T14:26:15.326Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "15",
+        "object_repr": "AgtechCategory object (15)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2022-09-30T10:12:27.506Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "8",
+        "object_repr": "AgtechCategory object (8)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2022-09-30T10:15:04.341Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "agtechcategory"
+        ],
+        "object_id": "16",
+        "object_repr": "AgtechCategory object (16)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2022-09-30T10:49:31.300Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "users",
+            "extendedprofile"
+        ],
+        "object_id": "4",
+        "object_repr": "ExtendedProfile object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2022-10-01T19:54:25.318Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "whychooseus"
+        ],
+        "object_id": "1",
+        "object_repr": "WhyChooseUs object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2022-10-01T19:54:27.031Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "whychooseus"
+        ],
+        "object_id": "1",
+        "object_repr": "WhyChooseUs object (1)",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2022-10-01T19:54:43.640Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "whychooseus"
+        ],
+        "object_id": "2",
+        "object_repr": "WhyChooseUs object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2022-10-01T19:54:58.728Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "whychooseus"
+        ],
+        "object_id": "3",
+        "object_repr": "WhyChooseUs object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2022-10-01T19:55:13.113Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "whychooseus"
+        ],
+        "object_id": "4",
+        "object_repr": "WhyChooseUs object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2022-10-01T19:57:04.073Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "latestnews"
+        ],
+        "object_id": "1",
+        "object_repr": "LatestNews object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2022-10-01T19:57:49.233Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "latestnews"
+        ],
+        "object_id": "2",
+        "object_repr": "LatestNews object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2022-10-01T19:58:04.290Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "latestnews"
+        ],
+        "object_id": "3",
+        "object_repr": "LatestNews object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2022-10-01T19:59:04.050Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "testimonials"
+        ],
+        "object_id": "1",
+        "object_repr": "Testimonials object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2022-10-01T19:59:26.915Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "testimonials"
+        ],
+        "object_id": "2",
+        "object_repr": "Testimonials object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2022-10-01T19:59:42.939Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "testimonials"
+        ],
+        "object_id": "3",
+        "object_repr": "Testimonials object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2022-10-01T20:00:02.046Z",
+        "user": [
+            "umair-ansari"
+        ],
+        "content_type": [
+            "webapp",
+            "testimonials"
+        ],
+        "object_id": "4",
+        "object_repr": "Testimonials object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]

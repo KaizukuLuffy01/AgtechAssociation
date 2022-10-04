@@ -1,0 +1,51 @@
+{% include 'webapp/base.html' %}
+{% load static %}
+
+{% block styles %}
+<style>
+.navbar_a {
+    display:none;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 ">
+                <div class="titlepage text_align_center">
+                    <span></span>
+                    <h2>Login</h2>
+                </div>
+            </div>
+            <div class="col-md-8 offset-md-2">
+                <form method="POST" id="request" class="main_form">
+                    {% csrf_token %}
+                    <div class="row">
+                        <div class="col-md-12 ">
+                            <input class="form_control" placeholder="Your Email" type="text" name="email">
+                        </div>
+                        <div class="col-md-12">
+                            <input class="form_control" placeholder="Password" type="password" name="password">
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="group_btn">
+                                <input type="submit" class="send_btn" value="Login"></input>
+                                </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+			<div class="col-md-12 ">
+                <div class="titlepage text_align_center">
+                    <span><a href="{% url 'webapp:users:register' %}">Need an Account?</a></span>
+                    <h2></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

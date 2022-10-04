@@ -1,0 +1,54 @@
+{% include 'webapp/base.html' %}
+{% load static %}
+{% block styles %}
+<style>
+.navbar_a {
+    display:none;
+}
+</style>
+{% endblock %}
+{% block content %}
+<div class="container">
+<div class="row">
+  <a  class = "btn btn-primary" href = "{% url 'webapp:users:logout' %}">Logout</a>
+</div>
+	<h2> Dashboard</h2>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">username</th>
+      <th scope="col">startup_name</th>
+      <th scope="col">mobile</th>
+      <th scope="col">category</th>
+      <th scope="col">cin_number</th>
+      <th scope="col">registration_state</th>
+      <th scope="col">tech_brief</th>
+      <th scope="col">company_website</th>
+      <th scope="col">rewards_recognition</th>
+      <th scope="col">funded_bootstrapped</th>
+
+    </tr>
+  </thead>
+  <tbody>
+  {% for data in extended_profile %}
+    <tr>
+      <th scope="row">{{forloop.counter}}</th>
+      <td>{{data.user}}</td>
+      <td>{{data.startup_name}}</td>
+      <td>{{data.mobile}}</td>
+      <td>{{data.category}}</td>
+      <td>{{data.cin_number}}</td>
+      <td>{{data.registration_state}}</td>
+      <td>{{data.tech_brief}}</td>
+      <td>{{data.company_website}}</td>
+      <td>{{data.rewards_recognition}}</td>
+      <td>{{data.funded_bootstrapped}}</td>
+    </tr>
+  {% endfor %}
+
+  </tbody>
+</table>
+</div>
+{% endblock %}

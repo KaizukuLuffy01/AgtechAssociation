@@ -1,0 +1,4 @@
+Django==3.2
+uuid==1.30
+psycopg2==2.8.6
+Pillow==9.2.0

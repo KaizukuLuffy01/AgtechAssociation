@@ -1,0 +1,115 @@
+{% include 'webapp/base.html' %}
+{% load static %}
+
+{% block styles %}
+<style>
+.navbar_a {
+    display:none;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 ">
+                <div class="titlepage text_align_center">
+                    <span>Complete your profile</span>
+                    <h2></h2>
+                </div>
+            </div>
+            <div class="col-md-12 ">
+                <form method="POST" id="request" class="main_form">
+                    {% csrf_token %}
+                    <div class="row">
+						<div class="row">
+						<div class="col-md-4">
+								<input class="form_control" placeholder="Startup name" type="text" name="startup_name">
+							</div>
+							<div class="col-md-4">
+								<input class="form_control" placeholder="Tagline" type="text" name="Tagline">
+							</div>
+							<div class="col-md-4">
+							<input class="form_control" placeholder="Mobile" type="text" name="mobile">
+							</div>
+						</div>
+
+						<div class="row">
+						<div class="col-md-4">
+							<input class="form_control" placeholder="Category" type="text" name="category">
+							</div>
+							<div class="col-md-4">
+							<input class="form_control" placeholder="Segment" type="text" name="segment">
+							</div>
+							<div class="col-md-4">
+							<input class="form_control" placeholder="Business Model" type="text" name="bmodel">
+							</div>
+						</div>
+
+												<div class="row">
+						<div class="col-md-4">
+							<input class="form_control" placeholder="CIN" type="text" name="cin">
+							</div>
+							<div class="col-md-4">
+							<input class="form_control" placeholder="Registration State" type="text" name="registration_state">
+							</div>
+							<div class="col-md-4">
+							<input class="form_control" placeholder="Founder Name" type="text" name="founder_name">
+							</div>
+						</div>
+
+						<div class="row">
+						<div class="col-md-4">
+							<input class="form_control" placeholder="Founder Email" type="text" name="founder_email">
+							</div>
+							<div class="col-md-4">
+							<input class="form_control" placeholder="Lastyear Revenue" type="text" name="lastyear_revenue">
+							</div>
+							<div class="col-md-4">
+							<input class="form_control" placeholder="Funded/Bootstrapped" type="text" name="funded_bootstrapped">
+							</div>
+						</div>
+					<div class="row">
+						<div class="col-md-4">
+							<input class="form_control" placeholder="Tech Breif" type="text" name="tech_brief">
+							</div>
+							<div class="col-md-4">
+							<input class="form_control" placeholder="Rewards Recognition" type="text" name="rewards_recognition">
+							</div>
+							<div class="col-md-4">
+							<input class="form_control" placeholder="Company Website" type="text" name="company_website">
+							</div>
+						</div>
+
+<!--                        <div class="col-md-12 ">-->
+<!--                            <input class="form_control" placeholder="Your Email" type="email" name="email">-->
+<!--                        </div>-->
+<!--                        <div class="col-md-12">-->
+<!--                            <select class="form_control" placeholder="User Type" name="user_type" >-->
+<!--                                <option value="1">Individual</option>-->
+<!--                                <option value="2">Institution</option>-->
+<!--                            </select>-->
+<!--                        </div>-->
+<!--                        <div class="col-md-12">-->
+<!--                            <input class="form_control" placeholder="Your Password" type="password" name="password">-->
+<!--                        </div>-->
+
+                        <div class="col-md-12">
+                            <div class="group_btn">
+                                <input type="submit" class="send_btn" value="SAVE"></input>
+                                </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+<!--			<div class="col-md-12 ">-->
+<!--                <div class="titlepage text_align_center">-->
+<!--                  <span><a href="{% url 'webapp:users:login' %}">Already have an Account?</a></span>-->
+<!--                    <h2></h2>-->
+<!--                </div>-->
+<!--            </div>-->
+        </div>
+    </div>
+
+</div>
+{% endblock %}
